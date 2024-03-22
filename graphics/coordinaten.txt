@@ -1,0 +1,21 @@
+default 2 cards:
+card1: 506, 441 (oben links)
+card2: 620, 441 (oben links)
+card3: 419, 441
+card4: 700, 441
+card5: 567, 331
+
+gegner:
+card1:  506, 157
+card2: 620 157
+
+
+breite spielfeld (grün): 856
+
+chips_setzen: 
+10: 394, 322
+20: 484, 322
+50: 575, 322
+100: 666, 322
+500: 757, 322
+einsatz_platz: 575, 206

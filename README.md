@@ -1,6 +1,10 @@
 # Blackjack
 Eine visuelle Umsetzung eines typischen Blackjack Spieles, mitsamt Spielkarten, Einsatzchips und ein Dealer gegen den man spielt.
 
+***
+<img src="https://i.ibb.co/XSrNdYW/Screenshot-2024-03-26-104346.png" alt="blackjack_game" width="398" height="233.3">
+***
+
 ## Spielablauf
 - Einsatz setzen.
 - Es werden jeweils 2 Karten ausgeteilt; eine Karte des Spielgebers ist offen.

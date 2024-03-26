@@ -23,4 +23,4 @@ Verliert man, verliert man das gesetzte Geld.
 Spielt man unentschieden, bekommt man den bloßen Einsatz zurück.
 
 ### Bild: Einsatz setzen
-<img src="https://i.ibb.co/swbYJ59/Screenshot-2024-03-26-103728.png" alt="Chips_setzen" width="298,5" height="175">
+<img src="https://i.ibb.co/swbYJ59/Screenshot-2024-03-26-103728.png" alt="Chips_setzen" width="398" height="233.3">

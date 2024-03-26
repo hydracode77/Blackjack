@@ -21,3 +21,6 @@ Das Startgeld beträgt 1000, welches man dann vor einer Runde setzen kann.
 Gewinnt man gegen den Dealer, verdoppelt sich das Geld. 
 Verliert man, verliert man das gesetzte Geld.
 Spielt man unentschieden, bekommt man den bloßen Einsatz zurück.
+
+### Bild: Einsatz setzen
+![Chips setzen](https://i.ibb.co/swbYJ59/Screenshot-2024-03-26-103728.png)

@@ -15,7 +15,7 @@ Eine visuelle Umsetzung eines typischen Blackjack Spieles, mitsamt Spielkarten, 
 |----------|----------|
 |Space|next (z.b. Karten aufdecken oder Einsatz bestätigen)|
 |Linksklick|um Chips zu setzen|
-|Plus|Karte ziehen / Hit|
+|Plus (+)|Karte ziehen / Hit|
 |Enter|Runde beenden / Stand|
 |Enter (numpad)|neues Spiel starten|
 |M|Mute/Unmute Musik|

@@ -11,12 +11,13 @@ Eine visuelle Umsetzung eines typischen Blackjack Spieles, mitsamt Spielkarten, 
 - Wenn man bleibt, wird der Gewinner berechnet. Entsprechend erhält man seinen Einsatz verdoppelt oder verliert ihn.
 
 ## Keybinds
-Space - next (z.b. Karten aufdecken oder Einsatz bestätigen)
-Chips zum setzen anklicken
-Plus - Karte ziehen / Hit
-Enter - Runde beenden / Stand
-Enter (numpad) - neues Spiel starten
-M - Mute/Unmute Musik
+|Space|next (z.b. Karten aufdecken oder Einsatz bestätigen)|
+|----------|----------|
+|Linksklick|um Chips zu setzen|
+|Plus|Karte ziehen / Hit|
+|Enter|Runde beenden / Stand|
+|Enter (numpad)|neues Spiel starten|
+|M|Mute/Unmute Musik|
 
 ## Einsatz
 Das Startgeld beträgt 1000, welches man dann vor einer Runde setzen kann.

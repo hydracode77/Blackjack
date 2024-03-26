@@ -4,11 +4,11 @@ Eine visuelle Umsetzung eines typischen Blackjack Spieles, mitsamt Spielkarten, 
 <img src="https://i.ibb.co/XSrNdYW/Screenshot-2024-03-26-104346.png" alt="blackjack_game" width="398" height="233.3">
 
 ## Spielablauf
-- Einsatz setzen.
-- Es werden jeweils 2 Karten ausgeteilt; eine Karte des Spielgebers ist offen.
-- Karten aufdecken.
-- Entscheidung treffen, ob eine weitere Karte gewünscht wird oder ob man bei den aktuellen Karten bleiben möchte.
-- Wenn man bleibt, wird der Gewinner berechnet. Entsprechend erhält man seinen Einsatz verdoppelt oder verliert ihn.
+- Einsatz setzen
+- Es werden jeweils 2 Karten ausgeteilt; eine Karte des Spielgebers ist offen
+- Karten aufdecken
+- Entscheidung treffen, ob eine weitere Karte gewünscht wird oder ob man bei den aktuellen Karten bleiben möchte
+- Wenn man bleibt, wird der Gewinner berechnet. Entsprechend erhält man seinen Einsatz verdoppelt oder verliert ihn
 
 ## Keybinds
 |Taste|Funktion|

@@ -11,8 +11,9 @@ Eine visuelle Umsetzung eines typischen Blackjack Spieles, mitsamt Spielkarten, 
 - Wenn man bleibt, wird der Gewinner berechnet. Entsprechend erhält man seinen Einsatz verdoppelt oder verliert ihn.
 
 ## Keybinds
-|Space|next (z.b. Karten aufdecken oder Einsatz bestätigen)|
+|Taste|Funktion|
 |----------|----------|
+|Space|next (z.b. Karten aufdecken oder Einsatz bestätigen)|
 |Linksklick|um Chips zu setzen|
 |Plus|Karte ziehen / Hit|
 |Enter|Runde beenden / Stand|
